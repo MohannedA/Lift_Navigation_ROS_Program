@@ -12,7 +12,7 @@ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 
 3. Open map to navigate 
 ```
-roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:={absolute path of lift_map.yaml}.yaml
+roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:={absolute path of lift_map.yaml}
 ```
 
 ## Authors
