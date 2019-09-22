@@ -1,5 +1,5 @@
 # Lift Navigation ROS Program
-Turtlebot3 navigation on map of two floors (contains lift) created via Gmapping
+Turtlebot3 navigation on map of two floors and lift created via Gmapping
 
 ## Usage
 
