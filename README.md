@@ -15,6 +15,5 @@ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:={absolute path of lift_map.yaml}
 ```
 
-## Authors
+## Other Authors
 * Hesham AlKhouja
-* Mohanned Ahmed
